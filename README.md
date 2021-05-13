@@ -1,1 +1,2 @@
 # Transportation-Classifier
+I created this classifier and tcx to csv converter to allow tracking data taken from a Garmin forerunner 235 to be uploaded to ArcGis as a mobility map. There is one jupyter notebook that converts tcx files to csv files (among other things). The other jupyter notebook determines whether each data point is attributed to someone walking, biking or driving. This way, the mobility map can reflect that and we can form more conclusions about mobility on the MCAS miramar base. 
